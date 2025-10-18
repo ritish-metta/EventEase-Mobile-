@@ -237,8 +237,8 @@ flutter pub get
 Create a `.env` file in the root directory:
 
 ```properties
-BASE_URL=https://7bc12f64cedc.ngrok-free.app/api
-AUTH_BASE_URL=https://7bc12f64cedc.ngrok-free.app/api/auth
+BASE_URL=https://7bc12f64cedc.ngrok-free.app
+
 API_TIMEOUT=30
 ```
 
@@ -275,3 +275,4 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 ## ⭐ Star this repository if you found it helpful!
 
 **Made with ❤️ using Flutter & Dart**
+

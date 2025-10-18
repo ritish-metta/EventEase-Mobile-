@@ -41,10 +41,10 @@ class _MyBookingsScreenState extends State<MyBookingsScreen> with SingleTickerPr
     // Try to get token from widget parameter first, then from SharedPreferences
     if (widget.token != null && widget.token!.isNotEmpty) {
       _authToken = widget.token;
-      print('🔑 Using token from widget parameter');
+      print(' Using token from widget parameter');
     } else {
       _authToken = await PreferencesService.getAuthToken();
-      print('🔑 Retrieved token from SharedPreferences');
+      print(' Retrieved token from SharedPreferences');
     }
     
     if (_authToken == null || _authToken!.isEmpty) {

@@ -4,7 +4,7 @@ import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 class ApiService {
   // Get base URL from environment variables
-  static String get baseUrl => dotenv.env['AUTH_BASE_URL'] ?? 'http://localhost:5000/api/auth';
+  static String get baseUrl => dotenv.env['BASE_URL'] ?? 'http://localhost:5000/api/auth';
   
   // Connection timeout duration from environment
   static Duration get timeoutDuration => Duration(
@@ -25,12 +25,12 @@ class ApiService {
   }) async {
     try {
       print('Registration Request:');
-      print('   URL: $baseUrl/register');
+      print('   URL: $baseUrl/api/auth/register');
       print('   Username: $username');
       print('   Email: $email');
 
       final response = await http.post(
-        Uri.parse('$baseUrl/register'),
+        Uri.parse('$baseUrl/api/auth/register'),
         headers: _headers,
         body: json.encode({
           'username': username,
@@ -118,11 +118,11 @@ class ApiService {
   }) async {
     try {
       print(' Send OTP Request:');
-      print('   URL: $baseUrl/send-otp');
+      print('   URL: $baseUrl/api/auth/send-otp');
       print('   Email: $email');
 
       final response = await http.post(
-        Uri.parse('$baseUrl/send-otp'),
+        Uri.parse('$baseUrl/api/auth/send-otp'),
         headers: _headers,
         body: json.encode({
           'email': email,
@@ -188,12 +188,12 @@ class ApiService {
   }) async {
     try {
       print(' Verify OTP Request:');
-      print('   URL: $baseUrl/verify-otp');
+      print('   URL: $baseUrl/api/auth/verify-otp');
       print('   Email: $email');
       print('   OTP: $otp');
 
       final response = await http.post(
-        Uri.parse('$baseUrl/verify-otp'),
+        Uri.parse('$baseUrl/api/auth/verify-otp'),
         headers: _headers,
         body: json.encode({
           'email': email,
@@ -260,11 +260,11 @@ class ApiService {
   }) async {
     try {
       print(' Login Request:');
-      print('   URL: $baseUrl/login');
+      print('   URL: $baseUrl/api/auth/login');
       print('   Email: $email');
 
       final response = await http.post(
-        Uri.parse('$baseUrl/login'),
+        Uri.parse('$baseUrl/api/auth/login'),
         headers: _headers,
         body: json.encode({
           'email': email,
@@ -332,11 +332,11 @@ class ApiService {
   }) async {
     try {
       print(' Resend OTP Request:');
-      print('   URL: $baseUrl/resend-otp');
+      print('   URL: $baseUrl/api/auth/resend-otp');
       print('   Email: $email');
 
       final response = await http.post(
-        Uri.parse('$baseUrl/resend-otp'),
+        Uri.parse('$baseUrl/api/auth/resend-otp'),
         headers: _headers,
         body: json.encode({
           'email': email,

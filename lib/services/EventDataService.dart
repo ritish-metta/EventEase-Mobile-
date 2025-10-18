@@ -19,7 +19,7 @@ class EventDataService {
   Future<List<Map<String, dynamic>>> getAllEvents() async {
     try {
       final response = await http.get(
-        Uri.parse('$baseUrl/events'),
+        Uri.parse('$baseUrl/api/events'),
         headers: {'Content-Type': 'application/json'},
       );
 
@@ -44,7 +44,7 @@ class EventDataService {
   Future<List<Map<String, dynamic>>> getFeaturedEvents() async {
     try {
       final response = await http.get(
-        Uri.parse('$baseUrl/events/featured/list'),
+        Uri.parse('$baseUrl/api/events/featured/list'),
         headers: {'Content-Type': 'application/json'},
       );
 
@@ -67,7 +67,7 @@ class EventDataService {
   Future<Map<String, dynamic>?> getEventById(String id) async {
     try {
       final response = await http.get(
-        Uri.parse('$baseUrl/events/$id'),
+        Uri.parse('$baseUrl/api/events/$id'),
         headers: {'Content-Type': 'application/json'},
       );
 
@@ -88,7 +88,7 @@ class EventDataService {
   Future<bool> addEvent(Map<String, dynamic> event, String token) async {
     try {
       final response = await http.post(
-        Uri.parse('$baseUrl/events'),
+        Uri.parse('$baseUrl/api/events'),
         headers: {
           'Content-Type': 'application/json',
           'Authorization': 'Bearer $token',
@@ -111,7 +111,7 @@ class EventDataService {
   Future<bool> updateEvent(String id, Map<String, dynamic> event, String token) async {
     try {
       final response = await http.put(
-        Uri.parse('$baseUrl/events/$id'),
+        Uri.parse('$baseUrl/api/events/$id'),
         headers: {
           'Content-Type': 'application/json',
           'Authorization': 'Bearer $token',
@@ -134,7 +134,7 @@ class EventDataService {
   Future<bool> deleteEvent(String id, String token) async {
     try {
       final response = await http.delete(
-        Uri.parse('$baseUrl/events/$id'),
+        Uri.parse('$baseUrl/api/events/$id'),
         headers: {
           'Content-Type': 'application/json',
           'Authorization': 'Bearer $token',
@@ -156,7 +156,7 @@ class EventDataService {
   Future<List<Map<String, dynamic>>> searchEvents(String query) async {
     try {
       final response = await http.get(
-        Uri.parse('$baseUrl/events?search=$query'),
+        Uri.parse('$baseUrl/api/events?search=$query'),
         headers: {'Content-Type': 'application/json'},
       );
 
@@ -179,7 +179,7 @@ class EventDataService {
   Future<List<Map<String, dynamic>>> getEventsByCategory(String category) async {
     try {
       final response = await http.get(
-        Uri.parse('$baseUrl/events?category=$category'),
+        Uri.parse('$baseUrl/api/events?category=$category'),
         headers: {'Content-Type': 'application/json'},
       );
 

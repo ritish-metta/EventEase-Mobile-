@@ -29,13 +29,15 @@ Seamless event discovery, booking, and management with modern UI/UX, secure auth
 | ![Language Selection](https://via.placeholder.com/150) | ![Registration](https://via.placeholder.com/150) | ![OTP Verification](https://via.placeholder.com/150) |
 | **Language Selection** | **Registration Form** | **OTP Verification** |
 
-| | | |
+| | | |![WhatsApp Image 2025-10-18 at 5 15 21 PM (1)](https://github.com/user-attachments/assets/e25638a0-b648-4fea-93c4-3c0238929e3a)
+
 |---|---|---|
 | ![Event Dashboard](https://via.placeholder.com/150) | ![Event Details](https://via.placeholder.com/150) | ![Booking Screen](https://via.placeholder.com/150) |
 | **Event Dashboard** | **Event Details** | **Booking Screen** |
 
 | | | |
-|---|---|---|
+|---|---|---|![Uploading WhatsApp Image 2025-10-18 at 5.15.21 PM.jpeg…]()
+
 | ![My Bookings](https://via.placeholder.com/150) | ![Profile Settings](https://via.placeholder.com/150) | ![Search & Filter](https://via.placeholder.com/150) |
 | **My Bookings** | **Profile Settings** | **Search & Filter** |
 
@@ -965,3 +967,4 @@ Contributions are welcome! Please follow these steps:
 ## ⭐ Star this repository if you found it helpful!
 
 **Made with ❤️ using Flutter & Dart**
+

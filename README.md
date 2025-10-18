@@ -11,7 +11,6 @@ Seamless event discovery, booking, and management with modern UI/UX, secure auth
 <div align="center">
 
 [![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://drive.google.com/file/d/1odf_sUHujLD2tMtrQFFhuwu7X5mh8-cJ/view?usp=sharing)
-[![Watch Demo](https://img.shields.io/badge/Watch-Video%20Demo-red?style=for-the-badge&logo=youtube)](https://drive.google.com/your-video-link)
 [![Backend API](https://img.shields.io/badge/Backend-API-blue?style=for-the-badge&logo=github)](https://github.com/ritish-metta/EventEase-Mobile-backend)
 
 ### Tech Stack
@@ -333,14 +332,13 @@ flutter pub get
 
 Create a `.env` file in the root directory:
 
-```env
-# API Configuration
-BASE_URL=https://your-backend-url.com/api
-AUTH_BASE_URL=https://your-backend-url.com/api/auth
-
-# Timeout settings (in seconds)
+```properties
+BASE_URL=https://7bc12f64cedc.ngrok-free.app/api
+AUTH_BASE_URL=https://7bc12f64cedc.ngrok-free.app/api/auth
 API_TIMEOUT=30
 ```
+
+> **Note:** Replace the ngrok URL with your actual backend URL if different.
 
 4. **Run the application**
 

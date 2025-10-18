@@ -10,7 +10,7 @@ Seamless event discovery, booking, and management with modern UI/UX, secure auth
 
 <div align="center">
 
-[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://drive.google.com/your-apk-link)
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://drive.google.com/file/d/1odf_sUHujLD2tMtrQFFhuwu7X5mh8-cJ/view?usp=sharing)
 [![Watch Demo](https://img.shields.io/badge/Watch-Video%20Demo-red?style=for-the-badge&logo=youtube)](https://drive.google.com/your-video-link)
 [![Backend API](https://img.shields.io/badge/Backend-API-blue?style=for-the-badge&logo=github)](https://github.com/ritish-metta/EventEase-Mobile-backend)
 
@@ -358,6 +358,7 @@ flutter run --release
 
 - **Developer**: Ritish Metta
 - **Email**: ritishmetta@gmail.com
+- **Phone**: +91 7075982098
 - **GitHub**: [@ritish-metta](https://github.com/ritish-metta)
 - **Issues**: [Report a bug](https://github.com/ritish-metta/EventEase-Mobile-/issues)
 

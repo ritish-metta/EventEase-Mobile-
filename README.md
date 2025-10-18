@@ -1,4 +1,4 @@
-# 🎉 EventEase Mobile App
+![WhatsApp Image 2025-10-18 at 5 15 25 PM (1)](https://github.com/user-attachments/assets/df9892fc-1181-408b-b5d4-eb4c2306d755)# 🎉 EventEase Mobile App
 
 **A Professional Event Booking & Management Application**
 
@@ -6,12 +6,37 @@ Seamless event discovery, booking, and management with modern UI/UX, secure auth
 
 ---
 
-## 🔗 Quick Links
+## 🔗 Quick Links![Uploading WhatsApp Image 2025-10-18 at 5.15.25 ![WhatsApp Image 2025-10-18 at 5 15 28 PM](https://github.com/user-attachments/assets/3182ac70-22b1-46ec-acb4-88bceea926ff)
+![WhatsApp Image 2025-10-18 at 5 15 27 PM](https://github.com/user-attachments/assets/0c862ce6-cb74-4ffb-8a2a-6d8a3d379fe6)
+![WhatsApp Image 2025-10-18 at 5 15 27 PM (2)](https://github.com/user-attachments/assets/98236dd9-8d53-4b53-8a4e-f49813be5613)
+![WhatsApp Image 2025-10-18 at 5 15 27 PM (1)](https://github.com/user-attachments/assets/5013bc4d-98bc-4ea8-a2d![WhatsApp Image 2025-10-18 at 5 15 22 PM (1)](https://github.com/user-attachments/assets/020b9e40-5925-4b3b-ad70-45863f552fd5)
+9-6d42d1a78259)
+![WhatsApp Image 2025-10-18 at 5 15 26 PM](https://github.com/user-![WhatsApp Image 2025-10-18 at 5 15 22 PM](https://github.com/user-attachments/assets/a0ab9576-eefb-43ca-90c7-ff2158d13dce)![WhatsApp Image 2025-10-18 at 5 15 23 PM](https://github.com/user-attachments/assets/fb6398aa-8015-4076-b11c-83d20621a9fb)
 
-<div align="center">
+attachments/assets/f0032d38-3f96-4324-b37b-5d2ba7e3b456)
+![WhatsApp Image 2025-10-18 at 5 15 26 PM (1)](https://github.com/user-attachments/assets/d8d8e844-cb8d-4ec4-89b2-0cf1fcd38ac9)
+![WhatsApp Image 2025-10-18 at 5 15 25 PM](https://github.com/user-attachments/assets/9bee8cc1-0ba5-4b14-ba16-0eb100891b42)
+![WhatsApp Image 2025-10-18 at 5 15 21 PM](https://github.com/user-attachments/assets/85e75cee-d787-47c6-a134-a05713b2f265)
+PM (1).jpeg…]()
 
-[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://drive.google.com/your-apk-link)
-[![Watch Demo](https://img.shields.io/badge/Watch-Video%20Demo-red?style=for-the-badge&logo=youtube)](https://drive.google.com/your-video-link)
+![WhatsApp Image 2025-10-18 at 5 15 25 PM (1)](https://github.com/user-attachments/assets/d35df927-7045-4d40-bb0b-23ac86438566)
+![WhatsApp Image 2025-10-18 at 5 15 25 PM](https://github.com/user-attachments/assets/e2c9ddcd-4247-46d9-8796-3e3d63a83f16)
+
+<div align="center">![WhatsApp Image 2025-10-18 at 5 15 26 PM (1)](https://github.com/user-attachments/assets/53656cb4-1f59-428d-9dbe-b96d991c0b9c)
+![WhatsApp Image 2025-10-18 at 5 15 26 PM](https://github.com/user-attachments/assets/a930f92f-b343-45d7-a13a-60b0e7049a62)
+
+![WhatsApp Image 2025-10-18 at 5 15 27 PM (2)](https://github.com/user-attachments/assets/d9005124-86b8-4c05-89b5-d5a39be665df)
+
+[![Download APK](https://img.shields.io/badge/Download-APK-gre![WhatsApp Image 2025-10-18 at 5 15 23 PM](https://github.com/user-attachments/assets/25d4f387-546f-4bb3-8b8f-debf2a0b60cd)
+![WhatsApp Image 2025-10-18 at 5 15 22 PM](https://github.com/user-attachments/assets/d6d29b62-03ee-410b-955d-b20ee866e96f)
+![WhatsApp Image 2025-10-18 at 5 15 22 PM (1)](https://github.com/use![WhatsApp Image 2025-10-18 at 5 15 27 PM (2)](https://github.com/user-attachments/assets/56d81d2b-1a78-4e2d-8feb-a90ceef9416c)
+r-attachments/assets/1355a44e-cec9-4340-b813-f9a39bcadca8)
+![WhatsApp Image 2025-10-18 at 5 15 21 PM](https://github.com/user-attachments/assets/b97d04c7-3be6-41e9-a042-c60d98c881b5)
+![WhatsApp Image 2025-10-18 at 5 15 21 PM (1)](https://github.com/user-attachments/assets/e2660681-1c52-4c00-98f4-90b6cbb08870)
+en?style=for-the-badge&logo=android)](https://drive.google.com/your-apk-link)
+[![Watch Demo](https://img.shields.io/badge/Watch-Video%20Demo![WhatsApp Image 2025-10-18 at 5 15 27 PM](https://github.com/user-attachments/assets/473634b5-6![WhatsApp Image 2025-10-18 at 5 15 28 PM](https://github.com/user-attachments/assets/89edba99-8530-4cea-87a8-c873e808bd6f)
+58d-497d-ac78-6f94abafdc06)
+-red?style=for-the-badge&logo=youtube)](https://drive.google.com/your-video-link)
 [![Backend API](https://img.shields.io/badge/Backend-API-blue?style=for-the-badge&logo=github)](https://github.com/ritish-metta/EventEase-Mobile-backend)
 
 </div>
@@ -967,4 +992,5 @@ Contributions are welcome! Please follow these steps:
 ## ⭐ Star this repository if you found it helpful!
 
 **Made with ❤️ using Flutter & Dart**
+
 

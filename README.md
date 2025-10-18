@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-10-18 at 5 15 25 PM (1)](https://github.com/user-attachments/assets/df9892fc-1181-408b-b5d4-eb4c2306d755)# 🎉 EventEase Mobile App
+# 🎉 EventEase Mobile App
 
 **A Professional Event Booking & Management Application**
 
@@ -6,65 +6,13 @@ Seamless event discovery, booking, and management with modern UI/UX, secure auth
 
 ---
 
-## 🔗 Quick Links![Uploading WhatsApp Image 2025-10-18 at 5.15.25 ![WhatsApp Image 2025-10-18 at 5 15 28 PM](https://github.com/user-attachments/assets/3182ac70-22b1-46ec-acb4-88bceea926ff)
-![WhatsApp Image 2025-10-18 at 5 15 27 PM](https://github.com/user-attachments/assets/0c862ce6-cb74-4ffb-8a2a-6d8a3d379fe6)
-![WhatsApp Image 2025-10-18 at 5 15 27 PM (2)](https://github.com/user-attachments/assets/98236dd9-8d53-4b53-8a4e-f49813be5613)
-![WhatsApp Image 2025-10-18 at 5 15 27 PM (1)](https://github.com/user-attachments/assets/5013bc4d-98bc-4ea8-a2d![WhatsApp Image 2025-10-18 at 5 15 22 PM (1)](https://github.com/user-attachments/assets/020b9e40-5925-4b3b-ad70-45863f552fd5)
-9-6d42d1a78259)
-![WhatsApp Image 2025-10-18 at 5 15 26 PM](https://github.com/user-![WhatsApp Image 2025-10-18 at 5 15 22 PM](https://github.com/user-attachments/assets/a0ab9576-eefb-43ca-90c7-ff2158d13dce)![WhatsApp Image 2025-10-18 at 5 15 23 PM](https://github.com/user-attachments/assets/fb6398aa-8015-4076-b11c-83d20621a9fb)
-
-attachments/assets/f0032d38-3f96-4324-b37b-5d2ba7e3b456)
-![WhatsApp Image 2025-10-18 at 5 15 26 PM (1)](https://github.com/user-attachments/assets/d8d8e844-cb8d-4ec4-89b2-0cf1fcd38ac9)
-![WhatsApp Image 2025-10-18 at 5 15 25 PM](https://github.com/user-attachments/assets/9bee8cc1-0ba5-4b14-ba16-0eb100891b42)
-![WhatsApp Image 2025-10-18 at 5 15 21 PM](https://github.com/user-attachments/assets/85e75cee-d787-47c6-a134-a05713b2f265)
-PM (1).jpeg…]()
-
-![WhatsApp Image 2025-10-18 at 5 15 25 PM (1)](https://github.com/user-attachments/assets/d35df927-7045-4d40-bb0b-23ac86438566)
-![WhatsApp Image 2025-10-18 at 5 15 25 PM](https://github.com/user-attachments/assets/e2c9ddcd-4247-46d9-8796-3e3d63a83f16)
-
-<div align="center">![WhatsApp Image 2025-10-18 at 5 15 26 PM (1)](https://github.com/user-attachments/assets/53656cb4-1f59-428d-9dbe-b96d991c0b9c)
-![WhatsApp Image 2025-10-18 at 5 15 26 PM](https://github.com/user-attachments/assets/a930f92f-b343-45d7-a13a-60b0e7049a62)
-
-![WhatsApp Image 2025-10-18 at 5 15 27 PM (2)](https://github.com/user-attachments/assets/d9005124-86b8-4c05-89b5-d5a39be665df)
-
-[![Download APK](https://img.shields.io/badge/Download-APK-gre![WhatsApp Image 2025-10-18 at 5 15 23 PM](https://github.com/user-attachments/assets/25d4f387-546f-4bb3-8b8f-debf2a0b60cd)
-![WhatsApp Image 2025-10-18 at 5 15 22 PM](https://github.com/user-attachments/assets/d6d29b62-03ee-410b-955d-b20ee866e96f)
-![WhatsApp Image 2025-10-18 at 5 15 22 PM (1)](https://github.com/use![WhatsApp Image 2025-10-18 at 5 15 27 PM (2)](https://github.com/user-attachments/assets/56d81d2b-1a78-4e2d-8feb-a90ceef9416c)
-r-attachments/assets/1355a44e-cec9-4340-b813-f9a39bcadca8)
-![WhatsApp Image 2025-10-18 at 5 15 21 PM](https://github.com/user-attachments/assets/b97d04c7-3be6-41e9-a042-c60d98c881b5)
-![WhatsApp Image 2025-10-18 at 5 15 21 PM (1)](https://github.com/user-attachments/assets/e2660681-1c52-4c00-98f4-90b6cbb08870)
-en?style=for-the-badge&logo=android)](https://drive.google.com/your-apk-link)
-[![Watch Demo](https://img.shields.io/badge/Watch-Video%20Demo![WhatsApp Image 2025-10-18 at 5 15 27 PM](https://github.com/user-attachments/assets/473634b5-6![WhatsApp Image 2025-10-18 at 5 15 28 PM](https://github.com/user-attachments/assets/89edba99-8530-4cea-87a8-c873e808bd6f)
-58d-497d-ac78-6f94abafdc06)
--red?style=for-the-badge&logo=youtube)](https://drive.google.com/your-video-link)
-[![Backend API](https://img.shields.io/badge/Backend-API-blue?style=for-the-badge&logo=github)](https://github.com/ritish-metta/EventEase-Mobile-backend)
-
-</div>
-
----
-
-## 📸 Screenshots
+## 🔗 Quick Links
 
 <div align="center">
 
-### User Interface Gallery
-
-| | | |
-|---|---|---|
-| ![Language Selection](https://via.placeholder.com/150) | ![Registration](https://via.placeholder.com/150) | ![OTP Verification](https://via.placeholder.com/150) |
-| **Language Selection** | **Registration Form** | **OTP Verification** |
-
-| | | |![WhatsApp Image 2025-10-18 at 5 15 21 PM (1)](https://github.com/user-attachments/assets/e25638a0-b648-4fea-93c4-3c0238929e3a)
-
-|---|---|---|
-| ![Event Dashboard](https://via.placeholder.com/150) | ![Event Details](https://via.placeholder.com/150) | ![Booking Screen](https://via.placeholder.com/150) |
-| **Event Dashboard** | **Event Details** | **Booking Screen** |
-
-| | | |
-|---|---|---|![Uploading WhatsApp Image 2025-10-18 at 5.15.21 PM.jpeg…]()
-
-| ![My Bookings](https://via.placeholder.com/150) | ![Profile Settings](https://via.placeholder.com/150) | ![Search & Filter](https://via.placeholder.com/150) |
-| **My Bookings** | **Profile Settings** | **Search & Filter** |
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://drive.google.com/your-apk-link)
+[![Watch Demo](https://img.shields.io/badge/Watch-Video%20Demo-red?style=for-the-badge&logo=youtube)](https://drive.google.com/your-video-link)
+[![Backend API](https://img.shields.io/badge/Backend-API-blue?style=for-the-badge&logo=github)](https://github.com/ritish-metta/EventEase-Mobile-backend)
 
 ### Tech Stack
 
@@ -72,6 +20,238 @@ en?style=for-the-badge&logo=android)](https://drive.google.com/your-apk-link)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
+
+</div>
+
+---
+
+## 📸 App Screenshots
+
+<div align="center">
+
+### 🎯 Onboarding & Authentication Flow
+
+<table>
+  <tr>
+    <td align="center" width="250">
+      <img src="https://github.com/user-attachments/assets/df9892fc-1181-408b-b5d4-eb4c2306d755" width="200" alt="Language Selection"/>
+      <br />
+      <b>Language Selection</b>
+      <br />
+      <sub>Choose from 9 languages</sub>
+    </td>
+    <td align="center" width="250">
+      <img src="https://github.com/user-attachments/assets/020b9e40-5925-4b3b-ad70-45863f552fd5" width="200" alt="Registration"/>
+      <br />
+      <b>User Registration</b>
+      <br />
+      <sub>Complete signup form</sub>
+    </td>
+    <td align="center" width="250">
+      <img src="https://github.com/user-attachments/assets/a0ab9576-eefb-43ca-90c7-ff2158d13dce" width="200" alt="OTP Verification"/>
+      <br />
+      <b>OTP Verification</b>
+      <br />
+      <sub>6-digit email verification</sub>
+    </td>
+  </tr>
+</table>
+
+### 🏠 Main App Features
+
+<table>
+  <tr>
+    <td align="center" width="250">
+      <img src="https://github.com/user-attachments/assets/fb6398aa-8015-4076-b11c-83d20621a9fb" width="200" alt="Home Dashboard"/>
+      <br />
+      <b>Home Dashboard</b>
+      <br />
+      <sub>Browse featured events</sub>
+    </td>
+    <td align="center" width="250">
+      <img src="https://github.com/user-attachments/assets/85e75cee-d787-47c6-a134-a05713b2f265" width="200" alt="Event Listing"/>
+      <br />
+      <b>Event Listing</b>
+      <br />
+      <sub>Discover all events</sub>
+    </td>
+    <td align="center" width="250">
+      <img src="https://github.com/user-attachments/assets/d35df927-7045-4d40-bb0b-23ac86438566" width="200" alt="Event Details"/>
+      <br />
+      <b>Event Details</b>
+      <br />
+      <sub>View complete information</sub>
+    </td>
+  </tr>
+</table>
+
+### 🎫 Booking & Management
+
+<table>
+  <tr>
+    <td align="center" width="250">
+      <img src="https://github.com/user-attachments/assets/e2c9ddcd-4247-46d9-8796-3e3d63a83f16" width="200" alt="Booking Screen"/>
+      <br />
+      <b>Ticket Booking</b>
+      <br />
+      <sub>Select seats & book</sub>
+    </td>
+    <td align="center" width="250">
+      <img src="https://github.com/user-attachments/assets/9bee8cc1-0ba5-4b14-ba16-0eb100891b42" width="200" alt="My Bookings"/>
+      <br />
+      <b>My Bookings</b>
+      <br />
+      <sub>View booking history</sub>
+    </td>
+    <td align="center" width="250">
+      <img src="https://github.com/user-attachments/assets/0c862ce6-cb74-4ffb-8a2a-6d8a3d379fe6" width="200" alt="Profile"/>
+      <br />
+      <b>User Profile</b>
+      <br />
+      <sub>Manage account settings</sub>
+    </td>
+  </tr>
+</table>
+
+### 🔍 Search & Filter
+
+<table>
+  <tr>
+    <td align="center" width="250">
+      <img src="https://github.com/user-attachments/assets/98236dd9-8d53-4b53-8a4e-f49813be5613" width="200" alt="Search"/>
+      <br />
+      <b>Search Events</b>
+      <br />
+      <sub>Find events quickly</sub>
+    </td>
+    <td align="center" width="250">
+      <img src="https://github.com/user-attachments/assets/5013bc4d-98bc-4ea8-a2d9-6d42d1a78259" width="200" alt="Category Filter"/>
+      <br />
+      <b>Category Filter</b>
+      <br />
+      <sub>Filter by preferences</sub>
+    </td>
+    <td align="center" width="250">
+      <img src="https://github.com/user-attachments/assets/f0032d38-3f96-4324-b37b-5d2ba7e3b456" width="200" alt="Results"/>
+      <br />
+      <b>Search Results</b>
+      <br />
+      <sub>Filtered event list</sub>
+    </td>
+  </tr>
+</table>
+
+### 📱 Additional Features
+
+<table>
+  <tr>
+    <td align="center" width="250">
+      <img src="https://github.com/user-attachments/assets/d8d8e844-cb8d-4ec4-89b2-0cf1fcd38ac9" width="200" alt="Event Categories"/>
+      <br />
+      <b>Event Categories</b>
+      <br />
+      <sub>Browse by type</sub>
+    </td>
+    <td align="center" width="250">
+      <img src="https://github.com/user-attachments/assets/53656cb4-1f59-428d-9dbe-b96d991c0b9c" width="200" alt="Featured Events"/>
+      <br />
+      <b>Featured Events</b>
+      <br />
+      <sub>Trending & popular</sub>
+    </td>
+    <td align="center" width="250">
+      <img src="https://github.com/user-attachments/assets/a930f92f-b343-45d7-a13a-60b0e7049a62" width="200" alt="Notifications"/>
+      <br />
+      <b>Notifications</b>
+      <br />
+      <sub>Stay updated</sub>
+    </td>
+  </tr>
+</table>
+
+### 🎨 UI Showcase
+
+<table>
+  <tr>
+    <td align="center" width="250">
+      <img src="https://github.com/user-attachments/assets/d9005124-86b8-4c05-89b5-d5a39be665df" width="200" alt="Dark Mode"/>
+      <br />
+      <b>Dark Mode</b>
+      <br />
+      <sub>Eye-friendly interface</sub>
+    </td>
+    <td align="center" width="250">
+      <img src="https://github.com/user-attachments/assets/25d4f387-546f-4bb3-8b8f-debf2a0b60cd" width="200" alt="Animations"/>
+      <br />
+      <b>Smooth Animations</b>
+      <br />
+      <sub>Delightful interactions</sub>
+    </td>
+    <td align="center" width="250">
+      <img src="https://github.com/user-attachments/assets/d6d29b62-03ee-410b-955d-b20ee866e96f" width="200" alt="Loading States"/>
+      <br />
+      <b>Loading States</b>
+      <br />
+      <sub>Shimmer effects</sub>
+    </td>
+  </tr>
+</table>
+
+### 🔐 Security & Settings
+
+<table>
+  <tr>
+    <td align="center" width="250">
+      <img src="https://github.com/user-attachments/assets/1355a44e-cec9-4340-b813-f9a39bcadca8" width="200" alt="Security"/>
+      <br />
+      <b>Security Settings</b>
+      <br />
+      <sub>Protect your account</sub>
+    </td>
+    <td align="center" width="250">
+      <img src="https://github.com/user-attachments/assets/b97d04c7-3be6-41e9-a042-c60d98c881b5" width="200" alt="Privacy"/>
+      <br />
+      <b>Privacy Controls</b>
+      <br />
+      <sub>Manage preferences</sub>
+    </td>
+    <td align="center" width="250">
+      <img src="https://github.com/user-attachments/assets/e2660681-1c52-4c00-98f4-90b6cbb08870" width="200" alt="Help Center"/>
+      <br />
+      <b>Help & Support</b>
+      <br />
+      <sub>24/7 assistance</sub>
+    </td>
+  </tr>
+</table>
+
+### 💳 Payment & Checkout (Coming Soon)
+
+<table>
+  <tr>
+    <td align="center" width="250">
+      <img src="https://github.com/user-attachments/assets/473634b5-658d-497d-ac78-6f94abafdc06" width="200" alt="Payment Options"/>
+      <br />
+      <b>Payment Options</b>
+      <br />
+      <sub>Multiple methods</sub>
+    </td>
+    <td align="center" width="250">
+      <img src="https://github.com/user-attachments/assets/89edba99-8530-4cea-87a8-c873e808bd6f" width="200" alt="Checkout"/>
+      <br />
+      <b>Secure Checkout</b>
+      <br />
+      <sub>Safe transactions</sub>
+    </td>
+    <td align="center" width="250">
+      <img src="https://github.com/user-attachments/assets/56d81d2b-1a78-4e2d-8feb-a90ceef9416c" width="200" alt="Receipt"/>
+      <br />
+      <b>Digital Receipt</b>
+      <br />
+      <sub>Instant confirmation</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -96,7 +276,7 @@ EventEase is a Flutter-based mobile application designed for seamless event disc
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
 ### Core Features
 
@@ -121,59 +301,6 @@ EventEase is a Flutter-based mobile application designed for seamless event disc
 - **🔔 Event Reminders** - Never miss your favorite events
 - **💬 Reviews & Ratings** - Share your experience
 - **🎁 Promo Codes** - Get exclusive discounts
-
----
-
-## 🏗️ Architecture
-
-```
-EventEase-Mobile/
-├── 📱 lib/
-│   ├── main.dart                       # App entry point
-│   │
-│   ├── 🔧 config/
-│   │   └── api_constants.dart          # API endpoints configuration
-│   │
-│   ├── 💾 services/
-│   │   ├── api_service.dart            # Authentication API calls
-│   │   ├── event_data_service.dart     # Event management API
-│   │   └── preferences_service.dart    # Local storage service
-│   │
-│   ├── 🗂️ models/
-│   │   ├── user_model.dart             # User data model
-│   │   ├── event_model.dart            # Event data model
-│   │   └── booking_model.dart          # Booking data model
-│   │
-│   ├── 🖥️ screens/
-│   │   ├── language_page.dart          # Language selection
-│   │   ├── registration_page.dart      # User registration
-│   │   ├── otp_screen.dart             # OTP verification
-│   │   ├── staging_screen.dart         # Onboarding tutorial
-│   │   ├── home_page.dart              # Main dashboard
-│   │   ├── event_details_page.dart     # Event information
-│   │   ├── booking_page.dart           # Ticket booking
-│   │   └── my_bookings_page.dart       # Booking history
-│   │
-│   ├── 🎨 widgets/
-│   │   ├── custom_button.dart          # Reusable button
-│   │   ├── event_card.dart             # Event display card
-│   │   ├── category_chip.dart          # Category filter chip
-│   │   └── shimmer_loading.dart        # Loading placeholders
-│   │
-│   └── 🛣️ routes/
-│       └── route_generator.dart        # Navigation routes
-│
-├── 📁 assets/
-│   ├── images/                         # App images & icons
-│   └── fonts/                          # Custom fonts
-│
-├── 🧪 test/
-│   └── widget_test.dart                # Unit & widget tests
-│
-├── 📄 .env                             # Environment variables
-├── 📄 .env.example                     # Env template
-└── 📄 pubspec.yaml                     # Dependencies
-```
 
 ---
 
@@ -215,758 +342,15 @@ AUTH_BASE_URL=https://your-backend-url.com/api/auth
 API_TIMEOUT=30
 ```
 
-4. **Add assets**
-
-Ensure all images are placed in the `assets/images/` directory and listed in `pubspec.yaml`.
-
-5. **Run the application**
+4. **Run the application**
 
 ```bash
 # Run on connected device
 flutter run
 
-# Run on specific device
-flutter devices
-flutter run -d <device-id>
-
 # Run in release mode
 flutter run --release
 ```
-
----
-
-## 📋 Core Components
-
-### 1. API Service (`api_service.dart`)
-
-Handles all authentication-related API calls.
-
-**Key Methods:**
-```dart
-register({username, email, password})     // User registration
-sendOtp({email})                          // Send OTP to email
-verifyOtp({email, otp})                   // Verify OTP code
-login({email, password})                  // User login
-resendOtp({email})                        // Resend OTP
-```
-
-**Response Format:**
-```dart
-{
-  'success': true/false,
-  'message': 'Response message',
-  'data': { /* response data */ },
-  'token': 'JWT token' // For login
-}
-```
-
----
-
-### 2. Event Data Service (`event_data_service.dart`)
-
-Manages all event-related operations.
-
-**Key Methods:**
-```dart
-getAllEvents()                            // Fetch all events
-getFeaturedEvents()                       // Get featured/upcoming events
-getEventById(id)                          // Get single event details
-searchEvents(query)                       // Search events by keyword
-getEventsByCategory(category)             // Filter by category
-addEvent(event, token)                    // Create new event (admin)
-updateEvent(id, event, token)             // Update event (admin)
-deleteEvent(id, token)                    // Delete event (admin)
-```
-
-**Event Data Format:**
-```dart
-{
-  'id': 'event_id',
-  'title': 'Event Title',
-  'image': 'image_url',
-  'startDate': DateTime,
-  'endDate': DateTime,
-  'location': 'Event Location',
-  'category': 'Music/Sports/Tech/etc',
-  'price': 50.00,
-  'capacity': 1000,
-  'bookedSeats': 450,
-  'description': 'Event description'
-}
-```
-
----
-
-### 3. Preferences Service (`preferences_service.dart`)
-
-Manages local data persistence using SharedPreferences.
-
-**Key Methods:**
-```dart
-saveUserData(name, email, mobile)         // Store user info
-setAuthenticated(bool)                    // Set login status
-getUserData()                             // Retrieve user data
-clearUserData()                           // Clear all data
-saveAuthToken(token)                      // Store JWT token
-getAuthToken()                            // Get JWT token
-```
-
-**Stored Data:**
-- `user_name` - User's display name
-- `user_email` - User's email address
-- `user_mobile` - User's phone number
-- `is_authenticated` - Login status
-- `auth_token` - JWT authentication token
-- `selected_language` - User's language preference
-
----
-
-### 4. API Constants (`api_constants.dart`)
-
-Centralized API endpoint configuration using environment variables.
-
-```dart
-class ApiConstants {
-  static String baseUrl = dotenv.env['BASE_URL'];
-  static String authBaseUrl = dotenv.env['AUTH_BASE_URL'];
-  
-  // Booking endpoints
-  static String createBooking = '$baseUrl/bookings';
-  static String getBookings = '$baseUrl/bookings';
-  static String cancelBooking(id) => '$baseUrl/bookings/$id/cancel';
-  
-  // Event endpoints
-  static String allEvents = '$baseUrl/events';
-  static String featuredEvents = '$baseUrl/events/featured/list';
-  static String eventById(id) => '$baseUrl/events/$id';
-}
-```
-
----
-
-## 📱 User Flow
-
-```
-Language Selection → Registration → OTP Verification → Staging → Event Dashboard → Event Details → Booking → Confirmation
-```
-
-### 1. Language Selection
-
-**Features:**
-- **9 Language Options**: English, Hindi, Bengali, Kannada, Punjabi, Tamil, Telugu, French, Spanish
-- Native script display for each language
-- Radio button selection with visual feedback
-- Saves preference to local storage
-
-**Languages Supported:**
-```dart
-English  - Welcome to EventEase
-Hindi    - ईवेंटईज़ में आपका स्वागत है
-Bengali  - ইভেন্টইজে আপনাকে স্বাগতম
-Kannada  - ಈವೆಂಟ್‌ಈಸ್‌ಗೆ ನಿಮಗೆ ಸ್ವಾಗತ
-Punjabi  - ਈਵੈਂਟਈਜ਼ ਵਿੱਚ ਤੁਹਾਡਾ ਸਵਾਗਤ ਹੈ
-Tamil    - EventEase க்கு வரவேற்கிறோம்
-Telugu   - EventEase కి స్వాగతం
-French   - Bienvenue sur EventEase
-Spanish  - Bienvenido a EventEase
-```
-
----
-
-### 2. Registration Page
-
-**Input Fields:**
-- Full Name (required, min 2 characters)
-- Email Address (validated format)
-- Password (minimum 6 characters, secure)
-- Country Code (India +91 by default)
-- Mobile Number (10 digits required)
-- Terms & Conditions (mandatory checkbox)
-
-**Validation Rules:**
-```dart
-✓ Name: Non-empty, alphabets only
-✓ Email: Valid format (xxx@xxx.xxx)
-✓ Password: Minimum 6 characters, strength indicator
-✓ Mobile: Exactly 10 digits, numeric only
-✓ Terms: Must be accepted before submission
-```
-
-**Registration Process:**
-1. User fills all required fields
-2. Client-side validation checks
-3. API call: Register user
-4. API call: Send OTP to email
-5. Save user data to SharedPreferences
-6. Navigate to OTP verification screen
-
-**Error Handling:**
-- Network errors with retry option
-- Duplicate email detection
-- Invalid input feedback
-- Server error messages
-
----
-
-### 3. OTP Verification Screen
-
-**Features:**
-- **6-Digit Input Boxes**: Separate input for each digit
-- **Auto-Focus**: Automatically moves to next box
-- **Backspace Support**: Returns to previous box
-- **Visual Feedback**: Highlights active input box
-- **Resend OTP**: Available after 60 seconds
-- **Timer Display**: Countdown for OTP expiry (10 minutes)
-
-**OTP Workflow:**
-1. User receives 6-digit code via email
-2. Enters code in input boxes
-3. Auto-submit when all 6 digits entered
-4. API validates OTP
-5. Success → Navigate to staging screen
-6. Failure → Clear inputs, show error, allow resend
-
-**Security:**
-- OTP expires after 10 minutes
-- Maximum 3 resend attempts
-- Rate limiting on verification attempts
-- Secure transmission via HTTPS
-
----
-
-### 4. Staging/Onboarding Screen
-
-**Components:**
-- **Welcome Header**: "Hello [UserName]!"
-- **User Avatar**: Profile picture placeholder
-- **Tutorial Video**: YouTube embedded player
-- **Instructions**: First-time user guide
-- **Quick Actions**: WhatsApp support, Start button
-
-**Features:**
-- Loads user name from local storage
-- Video autoplay option
-- Progress tracking
-- Skip tutorial option
-- Smooth animations
-
-**Tutorial Topics:**
-- How to browse events
-- Booking process explained
-- Payment methods
-- Managing bookings
-- App features overview
-
----
-
-### 5. Event Dashboard (Home Page)
-
-**Layout Sections:**
-
-#### A. Header
-- App logo and branding
-- Search bar with icon
-- Profile avatar (top-right)
-- Notification bell icon
-
-#### B. Category Filters
-Horizontal scrollable chips:
-```
-🎵 Music  🏀 Sports  💻 Tech  🎨 Arts  🍕 Food  🎉 Party
-```
-
-#### C. Featured Events
-- Carousel/slider of highlighted events
-- Auto-scroll with indicators
-- "Featured" badge overlay
-- Quick booking CTA
-
-#### D. Upcoming Events
-Grid/list view with event cards:
-```
-┌─────────────────────────┐
-│   [Event Image]         │
-│                         │
-│   Event Title           │
-│   📅 Date  📍 Location  │
-│   💰 Price  🎫 Available│
-│   [Book Now Button]     │
-└─────────────────────────┘
-```
-
-#### E. Categories Section
-Browse by category with image tiles
-
-#### F. Bottom Navigation
-```
-🏠 Home  🔍 Search  🎫 Bookings  👤 Profile
-```
-
-**Features:**
-- Pull-to-refresh functionality
-- Infinite scroll/pagination
-- Shimmer loading effects
-- Error state handling
-- Empty state illustrations
-
----
-
-### 6. Event Details Page
-
-**Information Displayed:**
-- Full-screen event banner image
-- Event title and category badge
-- Date, time, and duration
-- Venue name and address
-- Google Maps integration
-- Ticket pricing tiers
-- Available seats count
-- Event description
-- Organizer information
-- Terms & conditions
-
-**Interactive Elements:**
-- Image gallery swipe
-- Share event button
-- Add to favorites
-- Set reminder
-- View on map
-- Contact organizer
-- **Book Tickets** (primary CTA)
-
-**Booking Section:**
-```
-┌───────────────────────────┐
-│  Select Number of Tickets │
-│  [ - ]  [ 2 ]  [ + ]      │
-│                           │
-│  Total: ₹1000             │
-│  [Book Now Button]        │
-└───────────────────────────┘
-```
-
----
-
-### 7. Booking Page
-
-**Step-by-Step Process:**
-
-#### Step 1: Ticket Selection
-- Number of tickets selector
-- Seat type selection (if applicable)
-- Price breakdown display
-- Discount code input
-
-#### Step 2: User Information
-Pre-filled from profile:
-- Full Name
-- Email Address
-- Phone Number
-- Emergency Contact (optional)
-
-#### Step 3: Payment (Coming Soon)
-- Credit/Debit Card
-- UPI Integration
-- Net Banking
-- Wallet Options
-- Cash on Delivery (if applicable)
-
-#### Step 4: Confirmation
-- Review booking details
-- Terms acceptance
-- Final price confirmation
-- **Confirm Booking** button
-
-**Booking Summary:**
-```
-┌─────────────────────────────┐
-│ Event: Music Festival 2024  │
-│ Date: Dec 15, 2024          │
-│ Time: 7:00 PM               │
-│ Tickets: 2 × ₹500 = ₹1000   │
-│ Booking Fee: ₹50            │
-│ ─────────────────────────   │
-│ Total: ₹1050                │
-└─────────────────────────────┘
-```
-
----
-
-### 8. Booking Confirmation
-
-**Success Screen:**
-- ✅ Success animation
-- Booking ID display
-- QR code for entry
-- Download ticket button
-- Add to calendar
-- Share booking
-
-**Email Confirmation:**
-- Booking details
-- QR code ticket
-- Venue directions
-- Contact information
-- Cancellation policy
-
----
-
-### 9. My Bookings Page
-
-**Tabs:**
-- **Upcoming**: Future events
-- **Past**: Completed events
-- **Cancelled**: Cancelled bookings
-
-**Booking Card:**
-```
-┌─────────────────────────────┐
-│  [Event Image]              │
-│  Event Title                │
-│  Booking ID: BK123456       │
-│  📅 Dec 15, 2024  ⏰ 7:00 PM│
-│  🎫 2 Tickets  💰 ₹1050     │
-│  Status: Confirmed          │
-│  [View Details] [Cancel]    │
-└─────────────────────────────┘
-```
-
-**Features:**
-- Search bookings
-- Filter by status
-- Sort by date
-- Download tickets
-- Cancel bookings (with policy check)
-- Rebook past events
-
----
-
-### 10. User Profile
-
-**Sections:**
-
-#### Personal Information
-- Profile picture upload
-- Name, Email, Phone
-- Date of Birth
-- Gender
-- Edit profile button
-
-#### Account Settings
-- Change password
-- Email notifications toggle
-- Push notifications toggle
-- Language preference
-- Privacy settings
-
-#### Preferences
-- Favorite event categories
-- Location preferences
-- Price range filters
-- Event reminders
-
-#### Support
-- Help & FAQ
-- Contact support
-- Report an issue
-- Rate the app
-
-#### Legal
-- Terms of Service
-- Privacy Policy
-- Refund Policy
-- About EventEase
-
----
-
-## 🎨 UI Components
-
-### Custom Button Widget
-```dart
-CustomButton(
-  text: 'Book Now',
-  onPressedAsync: () async {
-    await bookTicket();
-  },
-  isLoading: _isLoading,
-  color: Colors.blue,
-  textColor: Colors.white,
-)
-```
-
-### Event Card Widget
-```dart
-EventCard(
-  event: eventData,
-  onTap: () => navigateToDetails(),
-  showBookingButton: true,
-)
-```
-
-### Shimmer Loading
-```dart
-ShimmerLoading(
-  type: ShimmerType.eventCard,
-  count: 5,
-)
-```
-
----
-
-## 🛠️ Tech Stack & Dependencies
-
-### Core Dependencies
-
-| Package | Purpose | Version |
-|---------|---------|---------|
-| **flutter** | Framework | SDK |
-| **http** | API requests | ^1.1.0 |
-| **shared_preferences** | Local storage | ^2.2.2 |
-| **go_router** | Navigation | ^12.0.0 |
-| **flutter_dotenv** | Environment variables | ^5.1.0 |
-
-### UI Dependencies
-
-| Package | Purpose | Version |
-|---------|---------|---------|
-| **cached_network_image** | Image caching | ^3.3.0 |
-| **shimmer** | Loading effects | ^3.0.0 |
-| **flutter_svg** | SVG support | ^2.0.0 |
-| **carousel_slider** | Image carousel | ^4.2.0 |
-| **lottie** | Animations | ^2.7.0 |
-
-### Utility Dependencies
-
-| Package | Purpose | Version |
-|---------|---------|---------|
-| **intl** | Date formatting | ^0.18.1 |
-| **url_launcher** | External links | ^6.2.0 |
-| **share_plus** | Share functionality | ^7.2.0 |
-| **image_picker** | Photo selection | ^1.0.0 |
-
----
-
-## 🎨 Design System
-
-### Color Palette
-```dart
-// Primary Colors
-Primary Blue:     #2563EB  (37, 99, 235)
-Dark Blue:        #1E40AF  (30, 64, 175)
-Light Blue:       #DBEAFE  (219, 234, 254)
-
-// Secondary Colors
-Success Green:    #10B981  (16, 185, 129)
-Warning Orange:   #F59E0B  (245, 158, 11)
-Error Red:        #EF4444  (239, 68, 68)
-
-// Neutral Colors
-Background:       #FFFFFF / #F9FAFB
-Text Primary:     #111827
-Text Secondary:   #6B7280
-Border:           #E5E7EB
-```
-
-### Typography
-```dart
-// Headings
-H1: 32px, Bold (FontWeight.w700)
-H2: 24px, Semi-bold (FontWeight.w600)
-H3: 20px, Semi-bold (FontWeight.w600)
-
-// Body
-Body Large:  16px, Regular (FontWeight.w400)
-Body:        14px, Regular (FontWeight.w400)
-Caption:     12px, Regular (FontWeight.w400)
-```
-
-### Spacing System
-```dart
-XXS: 4px
-XS:  8px
-S:   12px
-M:   16px
-L:   24px
-XL:  32px
-XXL: 48px
-```
-
-### Border Radius
-```dart
-Small:  4px  (buttons, chips)
-Medium: 8px  (cards, inputs)
-Large:  12px (modals, dialogs)
-XLarge: 16px (images, containers)
-```
-
----
-
-## 🗺️ Navigation Routes
-
-### Route Configuration
-```dart
-final router = GoRouter(
-  initialLocation: '/language',
-  routes: [
-    GoRoute(path: '/language', builder: (context, state) => LanguagePage()),
-    GoRoute(path: '/registration', builder: (context, state) => RegistrationPage()),
-    GoRoute(path: '/otp', builder: (context, state) => OtpScreen()),
-    GoRoute(path: '/staging', builder: (context, state) => StagingScreen()),
-    GoRoute(path: '/home', builder: (context, state) => HomePage()),
-    GoRoute(path: '/event/:id', builder: (context, state) => EventDetailsPage()),
-    GoRoute(path: '/booking/:eventId', builder: (context, state) => BookingPage()),
-    GoRoute(path: '/my-bookings', builder: (context, state) => MyBookingsPage()),
-    GoRoute(path: '/profile', builder: (context, state) => ProfilePage()),
-  ],
-);
-```
-
----
-
-## 🔐 Security Features
-
-- **JWT Token Management**: Secure storage in SharedPreferences
-- **OTP Verification**: Email-based two-factor authentication
-- **Input Validation**: All fields validated before API calls
-- **HTTPS Only**: Secure API communication
-- **Token Refresh**: Automatic token renewal
-- **Secure Storage**: Sensitive data encryption
-- **Session Management**: Auto-logout on token expiry
-
----
-
-## 📊 State Management
-
-Currently using **StatefulWidget** with plans to migrate to:
-- **Provider** for global state
-- **Riverpod** for dependency injection
-- **Bloc** for complex state logic
-
----
-
-## 🧪 Testing
-
-```bash
-# Run all tests
-flutter test
-
-# Run with coverage
-flutter test --coverage
-
-# Run integration tests
-flutter drive --target=test_driver/app.dart
-```
-
-**Test Coverage:**
-- Unit tests for services
-- Widget tests for UI components
-- Integration tests for user flows
-- API mocking for reliable tests
-
----
-
-## 📱 Build & Release
-
-### Android APK
-```bash
-# Debug build
-flutter build apk --debug
-
-# Release build
-flutter build apk --release
-
-# Split per ABI (smaller size)
-flutter build apk --split-per-abi
-```
-
-### iOS Build
-```bash
-# Release build
-flutter build ios --release
-
-# Create IPA
-flutter build ipa
-```
-
-### App Bundle (Play Store)
-```bash
-flutter build appbundle --release
-```
-
----
-
-## 🚀 Deployment Checklist
-
-- [ ] Update version in `pubspec.yaml`
-- [ ] Update `.env` with production URLs
-- [ ] Test all features on real devices
-- [ ] Check API endpoint connectivity
-- [ ] Verify OTP email delivery
-- [ ] Test payment integration
-- [ ] Generate release builds
-- [ ] Create app store assets
-- [ ] Write release notes
-- [ ] Submit to app stores
-
----
-
-## 🐛 Known Issues & Limitations
-
-1. **Payment Integration**: Currently under development
-2. **Push Notifications**: Setup required for FCM
-3. **Offline Mode**: Limited offline functionality
-4. **Maps Integration**: Google Maps API key needed
-5. **Social Login**: Facebook/Google login coming soon
-
----
-
-## 🔮 Roadmap
-
-### Version 2.0 (Q1 2025)
-- [ ] Payment gateway integration
-- [ ] Social media login
-- [ ] Push notifications
-- [ ] Dark mode support
-- [ ] Event recommendations AI
-
-### Version 2.1 (Q2 2025)
-- [ ] Live event streaming
-- [ ] In-app chat with organizers
-- [ ] Group booking features
-- [ ] Loyalty points system
-- [ ] Referral program
-
-### Version 3.0 (Q3 2025)
-- [ ] AR venue preview
-- [ ] Voice search
-- [ ] Multi-city support
-- [ ] Event creation for users
-- [ ] Analytics dashboard
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the LICENSE file for details.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Code Style Guidelines
-- Follow Dart/Flutter style guide
-- Use meaningful variable names
-- Add comments for complex logic
-- Write tests for new features
-- Update documentation
 
 ---
 
@@ -979,18 +363,12 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 🙏 Acknowledgments
+## 📄 License
 
-- Flutter team for the amazing framework
-- Open source community for packages
-- Backend API contributors
-- Beta testers for valuable feedback
-- UI/UX inspiration from modern booking apps
+This project is licensed under the **MIT License** - see the LICENSE file for details.
 
 ---
 
 ## ⭐ Star this repository if you found it helpful!
 
 **Made with ❤️ using Flutter & Dart**
-
-

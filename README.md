@@ -13,13 +13,6 @@ Seamless event discovery, booking, and management with modern UI/UX, secure auth
 [![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://drive.google.com/file/d/1odf_sUHujLD2tMtrQFFhuwu7X5mh8-cJ/view?usp=sharing)
 [![Backend API](https://img.shields.io/badge/Backend-API-blue?style=for-the-badge&logo=github)](https://github.com/ritish-metta/EventEase-Mobile-backend)
 
-### Tech Stack
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
-
 </div>
 
 ---

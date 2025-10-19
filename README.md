@@ -10,7 +10,7 @@ Seamless event discovery, booking, and management with modern UI/UX, secure auth
 
 <div align="center">
 
-[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://drive.google.com/file/d/1odf_sUHujLD2tMtrQFFhuwu7X5mh8-cJ/view?usp=sharing)
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://drive.google.com/uc?export=download&id=1odf_sUHujLD2tMtrQFFhuwu7X5mh8-cJ)
 [![Backend API](https://img.shields.io/badge/Backend-API-blue?style=for-the-badge&logo=github)](https://github.com/ritish-metta/EventEase-Mobile-backend)
 
 ### Tech Stack
@@ -256,13 +256,33 @@ flutter run --release
 
 ---
 
+## 📱 Download & Install
+
+### Option 1: Direct APK Download
+
+[**Download EventEase APK**](https://drive.google.com/uc?export=download&id=1odf_sUHujLD2tMtrQFFhuwu7X5mh8-cJ)
+
+### Option 2: View on Google Drive
+
+[**View APK on Google Drive**](https://drive.google.com/file/d/1odf_sUHujLD2tMtrQFFhuwu7X5mh8-cJ/view?usp=sharing)
+
+### Installation Steps
+
+1. Download the APK file from the link above
+2. Enable "Install from Unknown Sources" in your Android settings
+3. Open the downloaded APK file
+4. Follow the on-screen instructions to install
+5. Launch EventEase and enjoy!
+
+---
+
 ## 📧 Support & Contact
 
 - **Developer**: Ritish Metta
 - **Email**: ritishmetta@gmail.com
 - **Phone**: +91 7075982098
 - **GitHub**: [@ritish-metta](https://github.com/ritish-metta)
-- **Issues**: [Report a bug](https://github.com/ritish-metta/EventEase-Mobile-/issues)
+
 
 ---
 
@@ -275,4 +295,3 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 ## ⭐ Star this repository if you found it helpful!
 
 **Made with ❤️ using Flutter & Dart**
-
